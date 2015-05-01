@@ -31,16 +31,16 @@ A sample localization data and a script is provided. Simply run 'samplecode' in
 matlab environment. 
 
 ## References
-1. S-.H. Lee, J. Y. Shin, A. Lee and C. Bustamante, 
+1. J. Y. Shin, J. Lopez-Garrido, S-. H. Lee, C. Diaz-Celis, T. Fleming, 
+C. Bustamante and K. Pogliano
+"Visualization and functional dissection of coaxial paired SpoIIIE channels across the sporulation septum,"
+_eLIFE_ **e06474** (2015).
+
+2. S-.H. Lee, J. Y. Shin, A. Lee and C. Bustamante, 
 "Counting single photoactivatable fluorescent molecules by 
 photoactivated localization microscopy (PALM),"
 _Proc. Natl. Acad. Sci._ **109**, 17436-17441 (2012).
  
-2. J. Y. Shin, J. Lopez-Garrido, S-. H. Lee, C. Diaz-Celis, T. Flemming, 
-K. Pogliano and C. Bustamante, 
-"SpoIIIE translocates DNA through even number of channels formed by head-to-head
-hexamers across the division septum,"
-
 3. A. Al-Futaisi and T. W.. Patzek, 
 "Extension of Hoshen-Kopelman algorithm to non-lattice environments," 
 _Physica A_ **321**, 665-678 (2003).
